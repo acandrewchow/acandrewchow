@@ -18,10 +18,11 @@
 ---
 
 
-
+ <!--
 
 <div align="center">
 
+ 
   <p> 👨‍💻 I am a Software Engineering student @ the University of Guelph <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently working as a QA Analyst @ theScore </p>
   <img src="https://fengate.com/wp-content/uploads/2019/09/News_20190903_theScore.jpg" width="400" height="200"/>
   
@@ -29,7 +30,7 @@
   <p> On my free time, I am currently learning full stack development! </p>
 </div
  
-  
+  -->
 
 ---
 ### :hammer_and_wrench: Languages and Tools :

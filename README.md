@@ -9,7 +9,7 @@ Andrew</a></h1>
 </a>
 
 
-- 🔭 Previously worked at <a href="https://www.scoremediaandgaming.com/" target="blank">theScore</a> as a Software Developer
+- 🔭 Software Developer at  <a href="https://www.scoremediaandgaming.com/" target="blank">theScore</a>
 
 - 🌱 Currently learning new technologies, frameworks, product management and design
 
